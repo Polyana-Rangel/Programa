@@ -1,8 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
-int main(){
+main(){
 	int ano;
 	cout << "Entre com o ano:" << endl;
 	cin >> ano;
