@@ -1,11 +1,12 @@
 #include<iostream>
 
 using namespace std;
+
 main(){
 	int ano;
-	cout << "Entre com o ano:" << endl;
+	cout << "Entre com  seu ano de nascimento :" << endl;
 	cin >> ano;
-	cout << "Ola github em " << ano << endl;
+	cout << "sua idade eh " << 2021-ano << endl;
 	return 0;
 }
 
